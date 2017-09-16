@@ -1,0 +1,29 @@
+﻿Laporan Tutorial 2
+Daryl Naufal Haidar - 1506731574
+
+
+Latihan Project Hello World
+
+
+1. Tidak compile error, error 404
+2. Tidak compile error, masih muncul
+3. Tidak compile error, identifier template
+
+
+Latihan Request Parameter
+
+
+1. Sama, Selamat datang chanek !
+2. Selamat datang null !
+3. Selamat datang dunia !
+4. Thymeleaf, mengubah tag jika terdapat atribut th:text
+
+
+Latihan Path Variable
+
+
+1. Selamat datang dengklek !
+2. Selamat datang chanek !
+
+
+Yang diperoleh dari mengerjakan tutorial ini adalah mengetahui bagaimana cara dan kegunaan dari request parameter, Request paramete, dan Path variable yang ada pada spring boot.
